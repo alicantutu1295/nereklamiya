@@ -1,0 +1,10 @@
+{
+  "name": "betterblock",
+  "version": "0.1.0",
+  "description": "Fast, privacy-focused Chromium content blocker.",
+  "private": true,
+  "scripts": {
+    "build:rules": "node tools/build-rules.js",
+    "validate": "node tools/build-rules.js && node -e \"JSON.parse(require('fs').readFileSync('manifest.json','utf8')); JSON.parse(require('fs').readFileSync('rules/core-rules.json','utf8')); console.log('Validation OK')\""
+  }
+}
