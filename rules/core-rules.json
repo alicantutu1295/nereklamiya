@@ -1,0 +1,5410 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googlesyndication.com"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "google-analytics.com"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googletagmanager.com"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adservice.google.com"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pagead2.googlesyndication.com"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "securepubads.g.doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tpc.googlesyndication.com"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googleadservices.com"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googletagservices.com"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googleads.g.doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ad.doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "static.doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "2mdn.net"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adnxs.com"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adsystem.com"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "advertising.com"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adform.net"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adroll.com"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adsrvr.org"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "rubiconproject.com"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "openx.net"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pubmatic.com"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "scorecardresearch.com"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "quantserve.com"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "moatads.com"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "serving-sys.com"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "taboola.com"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "outbrain.com"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "criteo.com"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "criteo.net"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "amazon-adsystem.com"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ads-twitter.com"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "analytics.twitter.com"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "facebook.net"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "connect.facebook.net"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "hotjar.com"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fullstory.com"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "segment.io"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mixpanel.com"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "optimizely.com"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "newrelic.com"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "nr-data.net"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "zedo.com"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "yieldmo.com"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sharethrough.com"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "smartadserver.com"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adzerk.net"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "media.net"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "revcontent.com"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mgid.com"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "popads.net"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "propellerads.com"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "exoclick.com"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "trafficjunky.net"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ad.gt"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adservice.com"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "googleads4.g.doubleclick.net"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adsafeprotected.com"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "advertserve.com"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "analytics.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app-measurement.com"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "bluekai.com"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "chartbeat.com"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "clickagy.com"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "demdex.net"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "dotomi.com"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "everesttech.net"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fwmrm.net"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "krxd.net"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "lijit.com"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mathtag.com"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mookie1.com"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "nativo.com"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "nativo.net"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ntv.io"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "nativeroll.com"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "quora.com"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "q.quora.com"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "quoracdn.net"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "teads.tv"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.teads.tv"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "casalemedia.com"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "indexww.com"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "triplelift.com"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tlx.triplelift.com"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "applovin.com"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "vungle.com"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "chartboost.com"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "inmobi.com"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mintegral.com"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "amplitude.com"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "heapanalytics.com"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "crazyegg.com"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pinterest.com"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pinimg.com"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tr.snapchat.com"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sc-static.com"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "oracle.com"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "addthis.com"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "lotame.com"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "liveramp.com"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "neustar.com"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adeventtracker.spotify.com"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ads-fa.spotify.com"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "audio-ads.spotify.com"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adtago.s3.amazonaws.com"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "aan.amazon.com"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fls-na.amazon.com"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mads-eu.amazon.com"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adc3-launch.adcolony.com"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "events3alt.adcolony.com"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "wd.adcolony.com"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "bat.bing.com"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "c.bing.com"
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "onclickads.net"
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "liftoff.io"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "indexexchange.com"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.indexexchange.com"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "htlbid.com"
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "geo.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "udc.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "udcm.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "partnerads.ysm.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "log.fc.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "auction.unityads.unity3d.com"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "webview.unityads.unity3d.com"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "config.unityads.unity3d.com"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "metrika.yandex.ru"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adfox.yandex.ru"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adfstat.yandex.ru"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "appmetrica.yandex.ru"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mc.yandex.ru"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "init.supersonicads.com"
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.fyber.com"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ironsource.mobi"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "is.com"
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "outcome-ssp.supersonicads.com"
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "s.youtube.com"
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "redirector.googlevideo.com"
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "youtubei.googleapis.com"
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "smartyads.com"
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "contextweb.com"
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "stackadapt.com"
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "eb2.3lift.com"
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tlx.3lift.com"
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "apex.go.sonobi.com"
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "c.gumgum.com"
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.kargo.com"
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sync.kargo.com"
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pangleglobal.com"
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "doubleverify.com"
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.doubleverify.com"
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tps.doubleverify.com"
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "insightexpressai.com"
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tagmanager.google.com"
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "c.clarity.ms"
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "s.clarity.ms"
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mouseflow.com"
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.mouseflow.com"
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.mouseflow.com"
+      ]
+    }
+  },
+  {
+    "id": 162,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tools.mouseflow.com"
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn-test.mouseflow.com"
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "freshmarketer.com"
+      ]
+    }
+  },
+  {
+    "id": 165,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "claritybt.freshmarketer.com"
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fwtracks.freshmarketer.com"
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "luckyorange.com"
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.luckyorange.com"
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "realtime.luckyorange.com"
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.luckyorange.com"
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "w1.luckyorange.com"
+      ]
+    }
+  },
+  {
+    "id": 172,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "upload.luckyorange.net"
+      ]
+    }
+  },
+  {
+    "id": 173,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cs.luckyorange.net"
+      ]
+    }
+  },
+  {
+    "id": 174,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "settings.luckyorange.net"
+      ]
+    }
+  },
+  {
+    "id": 175,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.segment.com"
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "quantcast.com"
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cloudflareinsights.com"
+      ]
+    }
+  },
+  {
+    "id": 178,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.posthog.com"
+      ]
+    }
+  },
+  {
+    "id": 179,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "eu.posthog.com"
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "us.i.posthog.com"
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "posthog.com"
+      ]
+    }
+  },
+  {
+    "id": 182,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "rudderstack.com"
+      ]
+    }
+  },
+  {
+    "id": 183,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.rudderlabs.com"
+      ]
+    }
+  },
+  {
+    "id": 184,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "snowplowanalytics.com"
+      ]
+    }
+  },
+  {
+    "id": 185,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fingerprintjs.com"
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fpjs.io"
+      ]
+    }
+  },
+  {
+    "id": 187,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.fpjs.io"
+      ]
+    }
+  },
+  {
+    "id": 188,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "siftscience.com"
+      ]
+    }
+  },
+  {
+    "id": 189,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.siftscience.com"
+      ]
+    }
+  },
+  {
+    "id": 190,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "permutive.com"
+      ]
+    }
+  },
+  {
+    "id": 191,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.permutive.com"
+      ]
+    }
+  },
+  {
+    "id": 192,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "onetag-sys.com"
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "pippio.com"
+      ]
+    }
+  },
+  {
+    "id": 194,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "id5-sync.com"
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "bcp.crwdcntrl.net"
+      ]
+    }
+  },
+  {
+    "id": 196,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tapad.com"
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "prod.uidapi.com"
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "idsync.rlcdn.com"
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.rlcdn.com"
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tags.crwdcntrl.net"
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ad.crwdcntrl.net"
+      ]
+    }
+  },
+  {
+    "id": 202,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sync.crwdcntrl.net"
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "appsflyer.com"
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.adjust.com"
+      ]
+    }
+  },
+  {
+    "id": 206,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "adjust.com"
+      ]
+    }
+  },
+  {
+    "id": 207,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api2.branch.io"
+      ]
+    }
+  },
+  {
+    "id": 208,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "bnc.lt"
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "kochava.com"
+      ]
+    }
+  },
+  {
+    "id": 210,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "control.kochava.com"
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "singular.net"
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sdk-api-v1.singular.net"
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "wzrkt.com"
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "clevertap-prod.com"
+      ]
+    }
+  },
+  {
+    "id": 215,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "notify.bugsnag.com"
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sessions.bugsnag.com"
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.bugsnag.com"
+      ]
+    }
+  },
+  {
+    "id": 218,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.bugsnag.com"
+      ]
+    }
+  },
+  {
+    "id": 219,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "browser.sentry-cdn.com"
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.getsentry.com"
+      ]
+    }
+  },
+  {
+    "id": 221,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "browser-intake-datadoghq.com"
+      ]
+    }
+  },
+  {
+    "id": 222,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "rum.browser-intake-datadoghq.com"
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.lr-ingest.com"
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "r.lr-ingest.com"
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "coinimp.com"
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "www.coinimp.com"
+      ]
+    }
+  },
+  {
+    "id": 227,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mineralt.io"
+      ]
+    }
+  },
+  {
+    "id": 228,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "monerominer.rocks"
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "popcash.net"
+      ]
+    }
+  },
+  {
+    "id": 230,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "an.facebook.com"
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "graph.facebook.com"
+      ]
+    }
+  },
+  {
+    "id": 232,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tr.facebook.com"
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "graph.instagram.com"
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "i.instagram.com"
+      ]
+    }
+  },
+  {
+    "id": 235,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sc-static.net"
+      ]
+    }
+  },
+  {
+    "id": 236,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "snap.licdn.com"
+      ]
+    }
+  },
+  {
+    "id": 237,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "events.reddit.com"
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "events.redditmedia.com"
+      ]
+    }
+  },
+  {
+    "id": 239,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "d.reddit.com"
+      ]
+    }
+  },
+  {
+    "id": 240,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "business-api.tiktok.com"
+      ]
+    }
+  },
+  {
+    "id": 241,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "log.byteoversea.com"
+      ]
+    }
+  },
+  {
+    "id": 242,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mon.byteoversea.com"
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mcs-va.tiktokv.com"
+      ]
+    }
+  },
+  {
+    "id": 244,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "mon.tiktokv.com"
+      ]
+    }
+  },
+  {
+    "id": 245,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "px.srvcs.tumblr.com"
+      ]
+    }
+  },
+  {
+    "id": 246,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "vk.com/rtrg"
+      ]
+    }
+  },
+  {
+    "id": 247,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ad.mail.ru"
+      ]
+    }
+  },
+  {
+    "id": 248,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "top-fwz1.mail.ru"
+      ]
+    }
+  },
+  {
+    "id": 249,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tr.iadsdk.apple.com"
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "iadsdk.apple.com"
+      ]
+    }
+  },
+  {
+    "id": 251,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api-adservices.apple.com"
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "xp.apple.com"
+      ]
+    }
+  },
+  {
+    "id": 253,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "iot-eu-logser.realme.com"
+      ]
+    }
+  },
+  {
+    "id": 254,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "iot-logser.realme.com"
+      ]
+    }
+  },
+  {
+    "id": 255,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "open.oneplus.net"
+      ]
+    }
+  },
+  {
+    "id": 256,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "grs.hicloud.com"
+      ]
+    }
+  },
+  {
+    "id": 257,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "logservice.hicloud.com"
+      ]
+    }
+  },
+  {
+    "id": 258,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "logservice1.hicloud.com"
+      ]
+    }
+  },
+  {
+    "id": 259,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "logbak.hicloud.com"
+      ]
+    }
+  },
+  {
+    "id": 260,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.ad.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 261,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "data.mistat.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 262,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "data.mistat.india.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 263,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "data.mistat.rus.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sdkconfig.ad.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sdkconfig.ad.intl.xiaomi.com"
+      ]
+    }
+  },
+  {
+    "id": 266,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "samsungads.com"
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "smetrics.samsung.com"
+      ]
+    }
+  },
+  {
+    "id": 268,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "samsung-com.112.2o7.net"
+      ]
+    }
+  },
+  {
+    "id": 269,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "config.samsungads.com"
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "us.info.lgsmartad.com"
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ngfts.lge.com"
+      ]
+    }
+  },
+  {
+    "id": 272,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "smartclip.net"
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "smartclip.com"
+      ]
+    }
+  },
+  {
+    "id": 274,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "settings-win.data.microsoft.com"
+      ]
+    }
+  },
+  {
+    "id": 275,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "vortex.data.microsoft.com"
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "vortex-win.data.microsoft.com"
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "watson.telemetry.microsoft.com"
+      ]
+    }
+  },
+  {
+    "id": 278,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "browser.events.data.msn.com"
+      ]
+    }
+  },
+  {
+    "id": 279,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "firebase-settings.crashlytics.com"
+      ]
+    }
+  },
+  {
+    "id": 280,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.cookielaw.org"
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "geolocation.onetrust.com"
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "privacyportal.onetrust.com"
+      ]
+    }
+  },
+  {
+    "id": 283,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "consent.cookiebot.com"
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "consentcdn.cookiebot.com"
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cookiebot.com"
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "consent.trustarc.com"
+      ]
+    }
+  },
+  {
+    "id": 287,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sdk.privacy-center.org"
+      ]
+    }
+  },
+  {
+    "id": 288,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.privacy-mgmt.com"
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "app.usercentrics.eu"
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cmp.osano.com"
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "fundingchoicesmessages.google.com"
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "www.anrdoezrs.net"
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "www.dpbolvw.net"
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "www.tkqlhce.com"
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "shareasale.com"
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ad.linksynergy.com"
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "impact.com"
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "d.impactradius-event.com"
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.impact.com"
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "www.awin1.com"
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "zenaps.com"
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "prf.hn"
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "partnerstack.com"
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.partnerstack.com"
+      ]
+    }
+  },
+  {
+    "id": 305,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "refersion.com"
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.refersion.com"
+      ]
+    }
+  },
+  {
+    "id": 307,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "t.pepperjamnetwork.com"
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "s.skimresources.com"
+      ]
+    }
+  },
+  {
+    "id": 309,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "t.skimresources.com"
+      ]
+    }
+  },
+  {
+    "id": 310,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "go.skimresources.com"
+      ]
+    }
+  },
+  {
+    "id": 311,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "redirector.skimresources.com"
+      ]
+    }
+  },
+  {
+    "id": 312,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "go.redirectingat.com"
+      ]
+    }
+  },
+  {
+    "id": 313,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "redirect.viglink.com"
+      ]
+    }
+  },
+  {
+    "id": 314,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.viglink.com"
+      ]
+    }
+  },
+  {
+    "id": 315,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.viglink.com"
+      ]
+    }
+  },
+  {
+    "id": 316,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.dynamicyield.com"
+      ]
+    }
+  },
+  {
+    "id": 317,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "st.dynamicyield.com"
+      ]
+    }
+  },
+  {
+    "id": 318,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "events.launchdarkly.com"
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "clientstream.launchdarkly.com"
+      ]
+    }
+  },
+  {
+    "id": 320,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "munchkin.marketo.net"
+      ]
+    }
+  },
+  {
+    "id": 321,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "widget.intercom.io"
+      ]
+    }
+  },
+  {
+    "id": 322,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "js.driftt.com"
+      ]
+    }
+  },
+  {
+    "id": 323,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "braze.com"
+      ]
+    }
+  },
+  {
+    "id": 324,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "sdk.iad-01.braze.com"
+      ]
+    }
+  },
+  {
+    "id": 325,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cdn.onesignal.com"
+      ]
+    }
+  },
+  {
+    "id": 326,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "api.onesignal.com"
+      ]
+    }
+  },
+  {
+    "id": 327,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "klaviyo.com"
+      ]
+    }
+  },
+  {
+    "id": 328,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "a.klaviyo.com"
+      ]
+    }
+  },
+  {
+    "id": 329,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "customer.io"
+      ]
+    }
+  },
+  {
+    "id": 330,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "dai.google.com"
+      ]
+    }
+  },
+  {
+    "id": 331,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "g.jwpsrv.com"
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "ssl.p.jwpcdn.com"
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "prd.jwpltx.com"
+      ]
+    }
+  },
+  {
+    "id": 334,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "cd.connatix.com"
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "capi.connatix.com"
+      ]
+    }
+  },
+  {
+    "id": 336,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "vid.connatix.com"
+      ]
+    }
+  },
+  {
+    "id": 337,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "s.innovid.com"
+      ]
+    }
+  },
+  {
+    "id": 338,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ],
+      "requestDomains": [
+        "tremorhub.com"
+      ]
+    }
+  }
+]
